@@ -20,3 +20,11 @@ Computer Science Capstone
 [Enhanced Code (ZIP)](https://github.com/emolin01/SNHU_CS499/blob/main/4-2_MilestoneThree_InventoryApp_EileenMolina.zip)
 
 [Enhancement Narrative](https://github.com/emolin01/SNHU_CS499/blob/main/CS499_Mod4_4_2_MilestoneThree_EM.docx)
+
+## Enhancement Three: Databases
+
+**Artifact:** Inventory App — CS 360: Mobile Architecture and Programming
+
+[Enhanced Code (ZIP)](https://github.com/emolin01/SNHU_CS499/blob/main/5-2_MilestoneFour_InventoryApp_EileenMolina.zip)
+
+[Enhancement Narrative](https://github.com/emolin01/SNHU_CS499/blob/main/CS499_Mod5_5_2_MilestoneFour_EM.docx)
